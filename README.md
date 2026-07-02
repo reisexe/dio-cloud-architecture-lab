@@ -22,5 +22,5 @@ Repositório dedicado à documentação de arquiteturas em nuvem, desenvolvidas 
 ![Diagrama EBS](images/diagram-ebs-dio.png)
 
 * **Fluxo:** Usuário/Aplicação → Instância EC2 → Armazenamento em Volumes EBS.### Imagens Técnicas
----
+----
 *Desenvolvido por reisexe :D*
