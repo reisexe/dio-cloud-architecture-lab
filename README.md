@@ -14,12 +14,12 @@ Repositório dedicado à documentação de arquiteturas em nuvem, desenvolvidas 
 ## Diagramas de Arquitetura
 
 ### 1. Arquitetura Serverless (S3, Lambda, DynamoDB)
-<img width="1019" height="504" alt="Diagrama S3" src="https://github.com/user-attachments/assets/1110e468-2e78-4de9-a68a-61c0536cec6c" />
+<img width="901" height="475" alt="Diagrama EBS" src="https://github.com/user-attachments/assets/23ee8e5c-7ed8-46bb-9c40-2363b67179c5" />
 
 * **Fluxo:** Upload de Arquivo → Trigger S3 → Processamento Lambda → Persistência no DynamoDB.
 
 ### 2. Arquitetura de Instância (EC2, EBS)
-<img width="901" height="475" alt="Diagrama EBS" src="https://github.com/user-attachments/assets/23ee8e5c-7ed8-46bb-9c40-2363b67179c5" />
+<img width="1019" height="504" alt="Diagrama S3" src="https://github.com/user-attachments/assets/1110e468-2e78-4de9-a68a-61c0536cec6c" />
 
 * **Fluxo:** Usuário/Aplicação → Instância EC2 → Armazenamento em Volumes EBS.
 
