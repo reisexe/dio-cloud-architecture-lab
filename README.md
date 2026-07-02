@@ -21,9 +21,6 @@ Repositório dedicado à documentação de arquiteturas em nuvem, desenvolvidas 
 ### 2. Arquitetura de Instância (EC2, EBS)
 <img width="901" height="475" alt="Diagrama EBS" src="images/diagram-ebs-dio.PNG" />
 
-* **Fluxo:** Usuário/Aplicação → Instância EC2 → Armazenamento em Volumes EBS.
-### Imagens Técnicas
-![Diagrama S3](images/diagram-s3-dio.PNG)
-![Diagrama EBS](images/diagram-ebs-dio.PNG)
+* **Fluxo:** Usuário/Aplicação → Instância EC2 → Armazenamento em Volumes EBS.### Imagens Técnicas
 ---
 *Desenvolvido por reisexe :D*
